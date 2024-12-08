@@ -4,7 +4,7 @@ import { LuBadgeCheck } from "react-icons/lu";
 import { FaShippingFast } from "react-icons/fa";
 import { RiCustomerService2Fill } from "react-icons/ri";
 
-export default function BlogSec3() {
+export default function ContactSec3() {
   return (
     <div className="flex justify-between p-10 rounded-lg" style={{backgroundColor: '#FAF3EA'}}>
       {/* High Quality */}
